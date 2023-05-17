@@ -1,5 +1,5 @@
 ---
-title: "Topic Assignment"
+title: "Digital Healthcare"
 subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
 author: "Petra Tomaskova"
 categories:
@@ -7,7 +7,13 @@ categories:
   - "Digital Media"
   - "Well Being"
 ---
+https://www.tandfonline.com/doi/full/10.1080/15265161.2020.1863515?scroll=top&needAccess=true&role=tab&aria-labelledby=full-article
 
-Remove all topics except for your preferred topic for the wiki project:
-
-- Digital Healthcare
+K - The AIDDs could not only help those potentially affected but also relieve the burden from medical staff and healthcare systems.)
+A - Describe in one paragraph the main Argument of the article from which you have picked the Key Quote. Summarize in your own words
+R - Discuss the (R) Relationship between the argument in the study and the theoretical arguments put forward in the other articles that you have read from this research area.
+Q - two Questions that originate from the findings of the presented research and arguments. For instance, think about issues that are not addressed in this particular literature or about what could be a relevant future research question based on the findings or limitations of the presented study.
+- a summary of ~300 Words (+/-20) to your wiki entry that provides a bit more detail about the present study.
+  - What are the theoretical mechanisms that are proposed to connect digital media use and autonomy need experiences? 
+  - To what extent does the study focus on individual perceptions of digital autonomy or autonomy need experiences that relate to digital media use?
+  - How are (individual perceptions of) digital autonomy (or autonomy need experiences) and their relationship to digital media use studied empirically?
