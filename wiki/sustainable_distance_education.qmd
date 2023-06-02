@@ -1,0 +1,65 @@
+---
+title: "Sustainable Distance Education"
+subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
+author: "Elena Scheid"
+categories:
+  - "Media Psychology"
+  - "Digital Media"
+  - "Well Being"
+---
+
+K (key quote):
+
+
+"An independent model may hamper students’ perception of
+current knowledge and development of collaborative competences, in contrast to the more-interactive
+collaborative and social models" (p. 10).
+
+---
+
+A (main argument):
+
+Generally, only a small influence from the particular learning model on the students’ perception of knowledge acquisition was being observed. 
+The empirical research in this study couldn't notice that the individual model is more useful to gain technical and theoretical knowledge.
+In fact, the other two models - the social discussion model and the collaborative learning model - seem to cover this better (compare p. 10).
+
+---
+
+R (relation to arguments in other articles):
+
+Similar studies also mark positive learning experiences with digital pedagogy in digital environments. But they often did not do deep and detailed 
+research by comparing different digital learning models to really measure the effects from the digital surrounding on self-learning-experiences. 
+They rather focuse on the role and importance of collaborative online communities less than autonomous learning.
+
+---
+
+Q (questions):
+
+As the independant model "proved itself generally effective" (p. 11), it could be interesting to analyze its usefulness in certain cases.
+
+1. How valuable is the independant model when it comes to environmental problems and topics?
+2. How could the independant model be relevant for specific research on individual responsibility and/or decision making?
+
+---
+
+summary (~ 300 words):
+
+The present study deals with different digital learning models. The intention was to explore their influence on sustainable education. Three models had been choosen: the „Collaborative Learning Model“ (CLM), the „Social Model Based on Academic Discussion on Social Networks“ and the „Independant/Autonomous Learning Model“. 
+The empirical research in this study is a combination of several methods. They used a triangulation and a theoretical model, besides two quantitative models – descriptive analysis and contrast of means – and a qualitative discourse analysis.
+To collect the data, a survey was being used, which contained six dimensions. The general evaluation of the subject, an analysis of the communication and interaction process, the learning and knowledge acquisition process, collaborative work, pedagogical innovation and membership and cohesion. 
+Also, the test persons were asked to answer some open questions about interaction, membership, and cohesion. For example, how much they’re generally interested in working with their classmates or whether they feel themselves as part of a certain group.
+More than half of the participants in each group ranked the general learning experience as high with little to no differences between the learning models. The students from the independant model group marked a lower acquisition of current knowledge and social learning than the others, as well as they developed less collaborative competences. Furthermore, only around 40% reported that they have developed several types of learning. They also had difficulties integrating themselves into a group or developing a group-membership-feeling. But in fact, they felt like having engaged in independant learning and taking responsibility for their individual learning process. 
+The best perception of acquired knowledge was being measured in the collaborative learning model. Additionally, many test persons of the social and collaborative model groups talked about the positive effects of relations in a working and studying context.
+
+---
+
+references (APA 7):
+
+
+Santoveña-Casal, S., & Fernández Pérez, M. D. (2020). Sustainable distance education: Comparison of digital pedagogical models. *Sustainability, 12*(21), 9067. <https://doi.org/10.3390/su12219067>
+
+Barber, W., King, S., & Buchanan, S. (2015). Problem based learning and authentic assessment in digital pedagogy: Embracing the role of collaborative communities. *Electronic Journal of E-Learning, 13*(2), 59-67. <https://eric.ed.gov/?id=EJ1060176>
+
+Díaz-Noguera, M. D., Hervás-Gómez, C., la Calle-Cabrera, D., María, A., & López-Meneses, E. (2022). Autonomy, motivation, and digital pedagogy are key factors in the perceptions of Spanish higher-education students toward online learning during the COVID-19 pandemic. *International Journal of Environmental Research and Public Health, 19*(2), 654. <https://doi.org/10.3390/ijerph19020654>
+
+Hervás-Gómez, C., Díaz-Noguera, M. D., De la Calle-Cabrera, A. M., & Guijarro-Cordobés, O. (2021). Perceptions of university students towards digital transformation during the pandemic. *Education Sciences, 11*(11), 738. <https://doi.org/10.3390/educsci11110738>
