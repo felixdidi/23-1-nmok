@@ -1,0 +1,19 @@
+---
+title: "Topic Assignment"
+subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
+author: "Thomas Camille"
+categories:
+  - "Media Psychology"
+  - "Digital Media"
+  - "Well Being"
+---
+
+Remove all topics except for your preferred topic for the wiki project:
+
+- Digital Healthcare
+
+(K) "In line with the proposition of media effects theories that each adolescent may have a unique susceptibility to the effects of social media, a viable explanation for the small and inconsistent findings in earlier studies may be that the effect of social media differs from adolescent to adolescent."
+
+(A) The main argument of this paragraph is the difference in outcome between the numerous studies on the mobile phone among adolescents. Indeed, most of the studies were not based on each teenager but on a whole adolescent population, which was controversial because each individual and especially each teenager to his sensitivity.
+
+(R) 
