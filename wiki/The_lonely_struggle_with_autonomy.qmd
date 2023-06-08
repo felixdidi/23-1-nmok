@@ -1,0 +1,56 @@
+---
+title: "The lonely struggle with autonomy: A case study with first-year university students‘ experiences during emergency online teaching."
+subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
+author: "Freya Crawford Bindemann"
+categories:
+  - "Media Psychology"
+  - "Digital Media"
+  - "Well Being"
+---
+
+
+# Summary: 
+The Covid-19 Pandemic resulted in a sudden need for emergency online teaching in most higher education institutions. Especially for first year students adjusting to academic learning processes and practices, the pandemic supposedly was a significant irritation. The summarized paper aims to contribute insights as to how individual first-year students experienced the sudden switch to online learning. 
+
+**Theoretical background**
+In order to answer their questions, Eberle and Hobrecht (2021) adopt a basic psychological needs perspective based on self-determination theory (Deci&Ryan, 2000), which has identified three psychological needs in the academic context. The need for competence, which is satisfied when students experience success. The need for autonomy, which is satisfied when students do not feel restricted by a learning environment but are able to think independently and lastly the need for social relatedness, as the failure to integrate properly has been strongly associated with student drop-out. 
+Understanding the causes for satisfying these three basic psychological needs in higher education is therefore necessary to understand the impact of online learning during the pandemic. 
+Eberle and Hobrecht (2021) adopt the Cb-model, according to which higher education students’ learning success in a digitalized world depends on three factors, the first being the infrastructural, institutional and organizational academic environment. Available infrastructure and technical equipment can be seen as gatekeepers to a students’ academic experiences, the lack thereof fabricating an environment which does not allow learning at all and latterly leading to a complete dissatisfaction of students’ psychological needs. The second factor is teachers’ implementation of digital learning since the type of learning opportunities and the workload may also impact students’ psychological need satisfaction. Students’ skills and digital learning opportunities are a third factor. Both their self-regulated learning skills and basic digital skills seem relevant in order to engage in effective online learning activities. 
+It is assumed that how factors on these levels are characterized will have a significant impact on how students three basic psychological needs are met in higher education. Four research questions were investigated: 
+
+1) How did first year students’ experiences differ based on their need satisfaction in the academic environment prior to emergency online teaching? 
+2) How did the infrastructural, institutional, and organizational environment during emergency online teaching affect the satisfaction of first year students’ needs for autonomy, competence, and social relatedness? 
+3) How did higher education teachers’ implementation of digital learning during emergency online teaching affect the satisfaction of first year students’ needs for autonomy, competence, and social relatedness? 
+4) How did first year students’ skills and use of learning opportunities during emergency online teaching affect the satisfaction of their needs for autonomy, competence, and social relatedness? 
+
+**Method**
+The cases of fifteen first year chemistry students, who experienced their second semester with emergency online teaching, were analysed. Chemistry programs were chosen as they were already associated with a high drop-out rates and certain formats of the programme were difficult to transfer into an online format which indicated that the shift to online learning may have had a severe influence on the students’ learning experiences. 
+Two-part interviews were conducted. The first part focused on students’ experiences during their first (regular teaching) semester and was used to group them based on similarities. The second part of the semi-structured interview centred on experiences during the second (emergency online teaching) semester. A quality content analysis with a coding guide was conducted to form a category system. Furthermore, categories were analysed with focus on the three basic psychological needs. 
+
+**Results**
+Looking at the first semester, students differed considerably in how their need for competence and social relatedness was met and how they responded to the autonomous learning situation. Five subgroups of students were identified based on their experiences: young and well-adjusted students, experienced and structured students, struggling but positive students, high risk students and international students. 
+
+Regarding students’ experiences in their second (the online teaching) semester, the infrastructural, institutional and organizational academic environment were further explored. While digital technology equipment was not perceived as a strong factor for satisfaction or dissatisfaction of students’ needs, lacking internet connection caused restricted access to learning opportunities and social interaction, therefore negatively impacting students’ experiences of competence and social relatedness. In addition, transitioning to a place with sufficient connectivity affected students’ autonomy. The ceased commute between home and campus lead to a perceived increase in autonomy, as the opportunity arose to engage in more and higher quality learning activities. Additionally, regarding the concurrence of learning and home space, the opportunity of choosing a learning space was perceived as an increase in autonomy. However, students accustomed to studying at the library struggled with additional self-regulation and experienced reduced experiences of competence. The different subgroups based on their experiences of the first semester were not systematically differently affected by infrastructural, institutional, and organizational aspects during emergency online teaching. 
+
+Looking at teachers’ implementation of digital learning, the students reported that all the courses they were supposed to take in their second semester were generally available. 
+Students perceived the second semester as harder and more demanding, though online learning only added minor aspects to students’ workload related stress. Still, some students reported struggles with feeling competent.
+Looking at the digital learning opportunities afforded by teachers, live-webinars were perceived as helpful in dealing with the increase in autonomy, especially by struggling but positive students. Video recordings, on the other hand, lead to problems for some students who ended up skipping recordings due to problems in handling the autonomy in time-management. The lacking opportunities for direct interaction with lecturers resulted in decreased social relatedness. However, especially international students reported a feeling on increased competence with good quality video recordings, since it was possible to rewind the video and resolve problems by watching a passage several times. Additional forms of online teaching were not perceived particularly well by students and resulted in low feelings of competence. 
+
+Regarding students’ skills and use of learning opportunities it became clear that the students in subgroups who hat reported good self-regulation skills generally struggled less than those who had previously struggled with learning in their first semester. These students who had already reported ineffective learning habits, dealt with a reduced feeling of competence. Students’ digital skills did not appear to be an issue regarding their need satisfaction during the online semester. 
+Eberle and Hobrecht (2021) found striking differences on an interactive level when working on exercises, as only few students managed to engage in groups and initiate interactive learning opportunities online. Consequently, many reported lacking social relatedness. These findings are consistent with students’ skills for maintaining social contacts, since it was difficult to initiate new contacts online or stay in touch with certain friend groups. 
+
+**Discussion**
+The implications of these findings for learning activities involving technology in higher education are discussed. 
+Even though European countries generally have good internet infrastructure, it’s development must be addressed, since a lack of good infrastructure may result in a dissatisfaction of students’ psychological needs and overall well-being. The findings also highlight the importance of public and university learning spaces. Even though digital learning equipment was not of importance in the study, the factor needs to be addressed in order to create fair access to learning opportunities. The positive effect of the ceased commute should not be overlooked, as the autonomy in prioritizing sleep obviously had a positive impact on the satisfaction of psychological needs. 
+Findings show that a regular teaching and learning schedule helps students reduce problems in self-regulation that arise through the increase in autonomy during the online-semester. These specific findings may be of importance in a real social setting as well. Also, since most digital tools and methods were not perceived well, further education must be given to university teachers on the successful implementation of digital teaching methods. The results regarding students’ skills highlight the need for supporting students in acquiring self-regulation, time-management, as well as social skills. 
+The identification of the groups shows that individual students were affected differently through online teaching and learning, underlining the importance of a person-centred approach with regard to students’ experiences. The results show the need to further research digital learning in the larger student population to understand the role of students’ basic psychological need satisfaction for study-success and drop-out in higher education. 
+
+
+
+
+# Literature
+
+Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. Psychological Inquiry, 11(4), 227–268. https://doi.org/10.1207/S15327965PLI1104_01
+
+
+Eberle, J., & Hobrecht, J. (2021). The lonely struggle with autonomy: A case study with first-year university students‘ experiences during emergency online teaching. Computers in Human Behavior, 121.  https://doi.org/10.1016/j.chb.2021.106804
