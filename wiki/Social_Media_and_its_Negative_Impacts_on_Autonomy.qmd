@@ -1,0 +1,29 @@
+---
+title: "Social Media and its Negative Impact on Autonomy", Sahebi & Formosa, 2022
+subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
+author: "Katharina Finger"
+categories:
+  - "Media Psychology"
+  - "Digital Media"
+  - "Well Being"
+---
+
+**Key Quote** 
+„This led us to focus on the control that social media can have on users’ data, attention and behaviour, which cab result in the disrespect of users’ capacity for autonomy, interference with exercises of their autonomy, and harms to their autonomy competencies.” (S. 20)
+
+**Main Argument** 
+The paper argues that social media influences the autonomy of an individual under the aspects of user data, attention and behaviour. It argues how social media harms the individual autonomy in three ways. First social media platforms disrespect the users’ autonomy by collecting their data without them really knowing and most of them without having the expertise to know better. Second, they put out user-specific content and advertising and therefore interfering episodically and globally with the users’ activity and what they are watching on social media. And lastly, the companies undermine general autonomy competencies like self-esteem and self-determination. It is also argues that users are very often pressured to use big social media platforms in order to connect with their peers or sometimes even for work. 
+
+**Relationship**
+This article is similar to other articles in this field by concentrating mostly on the negative impact of digital power structures on individual autonomy. It uses existing papers and studies to outline common problems which come to mind when thinking about social media and autonomy. It therefore agrees with a lot of studies in this field and acts like a summary.
+
+**Questions**
+Are there any positive effects social media might have on autonomy? 
+What is the perspective from a social media company – is it really their goal to undermine their uers’ autonomy?
+
+**Summary** 
+In the beginning the concept of autonomy is defined with autonomy competencies. They “are those skills, capacities, and powers that agents need to be able to act autonomously” (S. 2). Social media is defined and the problems which arise with it in the context of individual autonomy are introduced. The main focus lies on three aspects: control over user data, attention and behaviour. 
+Social media companies practice platform capitalism where the main goal is to get users to stay on their platform as long as possible. This way the users experience a form of exploitation because the companies collect their data without giving them a reasonable payback and therefore disrespecting their autonomy by not treating them as an equal. Through this and more – like the lack of anonymization and the fear of surveillance - users often experience a negative impact on their autonomy competencies.
+The next issue is that platforms are designed so that people basically have no choice but to sign up and then to stay as long as possible. Through “the implementation of algorithms, and the sheer economic power” (S. 10), the power lies with the companies. Echo chambers, micro-targeting, fake news and radicalisation are a few examples why users might turn to opinions they normally would not support. Users lose control over their own beliefs and values.
+The behaviour of a user can be influenced through persuasion and coercion but also through emotional manipulation where the choice does not lie with the user anymore. Endless feeds and notifications create the fear of missing out. This manipulation does not always imply that the user acts in a way the normally wouldn’t. It still can be said that social media negatively impacts all three dimensions of autonomy.
+In the discussion the paper introduces several recommendations for social media regulation which not only include the change and transparency of companies but also more digital education for users.
