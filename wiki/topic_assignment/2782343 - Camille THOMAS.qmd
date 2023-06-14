@@ -1,0 +1,39 @@
+---
+title: "Topic Assignment"
+subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
+author: "Thomas Camille"
+categories:
+  - "Media Psychology"
+  - "Digital Media"
+  - "Well Being"
+---
+
+Remove all topics except for your preferred topic for the wiki project:
+
+- Digital Healthcare
+
+(K) "In line with the proposition of media effects theories that each adolescent may have a unique susceptibility to the effects of social media, a viable explanation for the small and inconsistent findings in earlier studies may be that the effect of social media differs from adolescent to adolescent."
+
+(A) The main argument of this paragraph is the difference in outcome between the numerous studies on social media among adolescents. Indeed, most of the studies were not based on each teenager but on a whole adolescent population, which was controversial because each individual and especially each teenager to his sensitivity. Adolescents are often in a period of self-discovery and they seek to test limits. For the most part, the Internet, social networks help them to discover them. They look for a way to be autonomous, to no longer need the consent of their parents, they seek emancipation. Most often, social networks are a good way to escape this reality while having a right to speak without filters. the freedom of social networks allows his teenagers to have the impression of keeping control, to have a right to speak about everything and anything, to think for themselves. When we are teenagers, we want this recognition of knowing how to think for ourselves, even if our ideas do not always agree with those of our parents or our peers. Social networks thus become a place of expression without repression, where everyone is free to say what they think. 
+
+(R) Most of the studies done on social media related to problems caused by the phone: digital health, depression, excessive use, isolation... here, in this study, the researchers wanted to focus on the individual aspect of the phone and social media. For a teenager, his mobile phone and account on social media are precious. They usually contain his greatest secrets. For the researchers in this study, we cannot do a study on the mobile phone and social media with young people by making the results of collective research. This notion of mobile phone and social media heterogeneity is not a good way to find answers about benefits or harms. in this research, the notion of individuality is really present. The researchers agreed to make the results very individualistic, which makes it possible to better understand the various disorders that adolescents may suffer when using the telephone and social media and to better understand the well-being of teenagers. 
+
+(Q) Does passive use of the social media have the same impact on adolescent concentration as active use? 
+    Social networks like Instagram or Whatsapp, would they have become in a few years the new spies of parents so that they can best know the lives of their children without having to ask them? 
+
+Summary : 
+
+this study focuses on the individual effects of social networks on each teenager, specially on Instagram and Whatsapp. Most other studies on the subject always report different results: sometimes negative, sometimes positive, sometimes without effects, sometimes some results do not indicate good or bad well-being on the lives of adolescents. In this study, researchers (Ine Beyens, J. Loes Pouwels, Irene I. van Driel, Loes Keijsers and Patti M. Valkenburg) focus more on the individual effect of social networks on adolescent well-being. they explain, for example, that other researchers have also taken on this challenge, and sometimes quite different results are found: Orben found a small negative impact between time spent on networks and life satisfaction; Boers, meanwhile, found symptoms of depression in adolescents using social networks and Coyne, found the opposite, that there was no correlation between depression and social networks. For this study, the researchers therefore based themselves on the individuality of the effects so as not to hinder the potential results. they wanted to find a way to better understand the feelings of adolescents through the use of social networks and how this could affect their well-being. For this, they interviewed 63 teenagers between 14 and 15, 6 times a day. Teens were required to complete 42 assessments to assess their well-being and use of social networks. The desire to base oneself on this age group is normal, since it is at this age that there are the main fluctuations of well-being. the results of the survey are then divided into several categories with the overall use of media, that of instagram, that of whatsapp. Previous studies have shown that adolescents are susceptible to social networks. In this study, they found that adolescent well-being does not differ by age, social category or time spent on social networks, but depends solely on the adolescent. Moreover, most adolescents are not impacted in the short term by social networks. contrary to the ideas received, teenagers feel better after using Instagram or Whatsapp. Indeed, on social networks, they can keep me in touch with their loved one, see funny videos or post photos. 
+However, the researchers put a limit on the study. As the main source of research remains the human and as proven in the study this differs according to the adolescent, one cannot make a generality about the benefits or harms of social networks. 
+To conclude, the research confirms the hypotheses that the correlation between adolescent well-being and social networks is unfounded. 
+
+
+What are the theoretical mechanisms that are proposed to connect digital media use and autonomy need experiences? -
+Social networks are no longer just means of communication. Whether they are used passively or actively, they seem to have become a real social and communicational issue. Indeed, adolescents, although this study focuses on the individualistic aspect of the effects of social networks on well-being, use social networks to emancipate themselves, to create their world away from family protection. The emancipation of teenagers begins early with this desire to grow up without a family directive and to be able to do what they want in the digital world. 
+
+To what extent does the study focus on individual perceptions of digital autonomy or autonomy need experiences that relate to digital media use? - 
+Young people do not see social networks as a medium that has an impact on their well-being. They see social networks as a medium that allows them to express themselves in a fluid and unrestrained way. Research shows that adolescents use social networks passively for emotional well-being. Indeed, they passively use social networks because they seek happiness, joy, unlike adults who more generally feel envy when they go on social networks. 
+
+How are (individual perceptions of) digital autonomy (or autonomy need experiences) and their relationship to digital media use studied empirically? - 
+In this study, 2 empirical studies were studied. First, the study is done in 2 stages: the case study then the quantitative study. In the case study, the researchers went to a college in the Netherlands during class hours and explained to the participants the objectives and procedures of the study. they had to need permission from the parents as the students are minors and had to prove that the answers were going to be confidential. The case study is based on the media that young people use, they answered a questionnaire to find out which media they use most. Secondly, the quantitative study took place. Students responded to 42 2-minute surveys, then 30 assessments and then two open-ended questions: what did you enjoy most about your day and what didn’t? 
+
