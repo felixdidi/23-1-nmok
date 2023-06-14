@@ -1,0 +1,45 @@
+--
+title: "Wiki Entry Template"
+subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
+author: Ronja Schmitz 
+categories:
+  - "Media Psychology"
+  - "Digital Media"
+  - "Well Being"
+---
+
+Children and Adolescents and Digital Media 
+
+Key Quote: 
+
+“Thus, digital media can provide an engaging experience in which the media experiences of children and teenagers become highly personalized.“
+
+Argument
+ 
+Der Text befasst sich insbesondere mit den Risiken der (online) Mediennutzung für Kinder und Jugendliche. Es werden die verschiedenen Altersstufen betrachtet und welche individuellen Gefahren die Mediennutzung für die jeweilige Altersgruppe darstellen kann. Es wird an dieser Stelle betont, dass man davon ausgehen muss, dass ebenfalls Persönlichkeit und die sozialen Umstände eine wichtige Rolle dabei spielen, inwiefern die Nutzung zur Gefahr wird. 
+
+Relationship
+
+Wie auch dieser Artikel betont, ist es wichtig, dass Familien Regeln für die Nutzung der (online) Medien aufstellen und Pläne für eine sichere Nutzung erstellen. Diesem Ansatz stimmen auch weitere Forscher zu, die fordern, dass Eltern bei der Nutzung der Medien einen Fokus darauflegen, dass ihre Kinder die Medien dafür nutzen, um sich mit Freunden auszutauschen, lehrreiche Inhalte anzuschauen und sich kreativ auszuleben (Coyne et al, 2017). Viele Forschern verlangen, dass die Eltern für ihre Kindern eine Screen Time festlegen, die nicht überschritten werden soll. Man möchte so dem Abnehmen der Aufmerksamkeitsspanne entgegenwirken, welche man bei vielen Kindern und Jugendlichen beobachten konnte. Des Weiteren erhofft man sich, dass auf diese Weise vermehrt reale soziale Interaktionen gefördert werden (Nikken & Schols, 2015). 
+
+Questions
+
+1.	Was sind mögliche Langzeitfolgen?
+2.	Schadet eine hohe Nutzungsdauer den sozialen und zwischenmenschlichen Kompetenzen des Kindes?
+
+Summary 
+Da heutzutage die online Mediennutzung immer weiter individualisiert wird, fällt es vor allem jungen Nutzern immer schwerer die Grenze zwischen Online-Kommunikation und Entertainment zu finden. Da vor allem junge Menschen das Internet und die sozialen Medien häufig nutzen, ist es wichtig auf die verschiedenen Risiken für die verschiedenen Altersgruppen hinzuweisen. Je nach Persönlichkeit des Kindes oder Jugendlichen, den sozialen Umständen und des Alters kann die Mediennutzung im Internet verschiedene Risiken mit sich bringen, über die vor allem auch die Eltern ihre Kinder aufklären sollten. Diese Risiken können gesundheitliche und mentale Folgen haben. Gefahren des Internets stellen unter anderem Cyber-Mobbing, Sexting oder Kinderpornographie dar. Kinder sollten daher bereits im jungen Alter über die Risiken des Internets aufgeklärt werden und ihre Eltern sollten mit gutem Beispiel voran gehen. Jedoch gibt es auch positive Aspekte des Internets und der digitalen Mediennutzung. Lernprogramme oder aufklärende Fernsehsendungen können Kinder ab fünf Jahren dabei helfen, sich weiterzubilden und neue Dinge zu lernen. Außerdem bringen die verschiedenen Formen der Interaktion den Kindern spielerisch den Umgang mit Technologien bei. All dies ersetzt jedoch nicht die persönliche Interaktion zwischen Kindern und anderen Personen, die vor allem für Kleinkinder in ihrer Entwicklung von sehr großer Bedeutung ist und daher unter keinen Umständen vernachlässigt werden sollte. Die Autoren des Textes schlagen deswegen vor, dass Familien einen Plan erstellen, auf welche Art und Weise und wie lange die (sozialen) Medien genutzt werden sollten. Eltern sollten ihren Kindern auch Grenzen setzen, wie oft und wie lange die Medien genutzt werden dürfen.
+
+
+
+Literatur 
+
+Coyne, S. M., Radesky, J., Collier, K. M., Gentile, D. A., Linder, J. R., Nathanson, A. I., ... & Rogers, J. (2017). Parenting and digital media. Pediatrics, 140(Supplement_2), S112-S116.
+
+Hoge, E., Bickham, D., & Cantor, J. (2017). Digital media, anxiety, and depression in children. Pediatrics, 140(Supplement_2), S76-S80.
+
+Nikken, P., & Schols, M. (2015). How and why parents guide the media use of young children. Journal of child and family studies, 24, 3423-3435.
+
+Nikken, P., & Opree, S. J. (2018). Guiding young children’s digital media use: SES-differences in mediation concerns and competence. Journal of child and family studies, 27, 1844-1857.
+
+Reid Chassiakos, Y. L., Radesky, J., Christakis, D., Moreno, M. A., Cross, C., Hill, D., ... & Swanson, W. S. (2016). Children and adolescents and digital media. Pediatrics, 138(5).
