@@ -6,6 +6,12 @@ categories:
   - "Media Psychology"
   - "Digital Media"
   - "Well Being"
+  - "Digital Pedagogy"
+  - "Emergency Online Teaching"
+  - "Higher Education"
+  - "Covid-19"
+  - "Basic Psychological Needs"
+ 
 ---
 
 
@@ -45,12 +51,10 @@ Even though European countries generally have good internet infrastructure, it�
 Findings show that a regular teaching and learning schedule helps students reduce problems in self-regulation that arise through the increase in autonomy during the online-semester. These specific findings may be of importance in a real social setting as well. Also, since most digital tools and methods were not perceived well, further education must be given to university teachers on the successful implementation of digital teaching methods. The results regarding students’ skills highlight the need for supporting students in acquiring self-regulation, time-management, as well as social skills. 
 The identification of the groups shows that individual students were affected differently through online teaching and learning, underlining the importance of a person-centred approach with regard to students’ experiences. The results show the need to further research digital learning in the larger student population to understand the role of students’ basic psychological need satisfaction for study-success and drop-out in higher education. 
 
+# Summarized Paper
+Eberle, J., & Hobrecht, J. (2021). The lonely struggel with autonomy: A case study with first-year university students' experiences during emergeny online teaching. Psychological Inquiry, 11(4), 227-268. https://doi.org/10.1016/j.chb.2021.106804
 
 
-
-# Literature
-
+# Additional Literature
 Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. Psychological Inquiry, 11(4), 227–268. https://doi.org/10.1207/S15327965PLI1104_01
 
-
-Eberle, J., & Hobrecht, J. (2021). The lonely struggle with autonomy: A case study with first-year university students‘ experiences during emergency online teaching. Computers in Human Behavior, 121.  https://doi.org/10.1016/j.chb.2021.106804
