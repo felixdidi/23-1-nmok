@@ -1,0 +1,41 @@
+---
+title: "Negotiated Autonomy: The Role of Social Media Algorithms in Editorial Decision Making"
+subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
+author: "Peter Gollai"
+categories:
+  - "Media Psychology"
+  - "Digital Media"
+  - "Well Being"
+---
+
+K: “[...] our findings suggest that, while ideas about social media algorithms have become a new element influencing gatekeeping practices, especially with regards to content framing and resource allocation to stories, they do not completely capture journalists’ editorial decision-making process.”  (Peterson-Salahuddin & Diakopoulos, 2020, p. 35)
+
+A: The relevant theory of the literature is based on the gatekeeping and news value theory, which have been influenced by the new challenges coming from the digital media era. The theories say that journalists act as “gatekeepers” meaning they can decide whether or not a story will be worthy to be mentioned in an article. Back in the 1950s when the theory was developed, it was thought to be a highly subjective matter, but that has changed over the following decades to an five-level-model explaining that media/news can be shaped by a lot of different factors. The news value can measure how newsworthy a story is by some key criteria. However those understandings have to be reconsidered because of the new challenge of the digital media use. Nowadays journalists have a lot more direct contact with the recipients through social media. Therefore the article examines how this new challenge, especially regarding algorithms, influence the journalists behaviour.
+
+R: The mentioned argument can be extended by the theory of Eslami et al. (2016) who said that people who can’t really know how algorithms truly work develop “folk theories” with which they can handle their behaviour on social media platforms. Because of that they know how to behave when being confronted with a platform that has an algorithm. They cannot be compared to the actual mechanism of the algorithm, but can guide the user although it isn’t how the algorithm truly works.
+
+Q: 1. Since the study has been made by a small sample of only 18 journalists coming from the USA, you can’t draw any conclusions regarding the behaviour and perspective of international journalism. For this reason a much bigger sample from international journalists could be made. 
+
+2. Because the authors chose to do interviews as their method of answering their research question, the results can differ from the actual reality. Hence, a content analysis should be made to confirm or deny the given statements that the journalists made in order to get a better understanding of this topic.
+
+
+
+
+
+
+
+
+
+
+
+
+Summary:
+In order to answer the research questions the authors did quantitative, semi-structured interviews with 18 professional journalists, all living in the United States. They searched participants through LinkedIn, snowball sampling and suggestions from participants who already completed the interviews. They wanted to answer two questions. First, What algorithmic ‘folk theories’ permeate journalistic practice and second, how and to what extent do journalists perceive these algorithmic ‘folk theories’ to influence their editorial decision making and gatekeeping practices at various levels. The interviews have been conducted between August 2019 and February 2020 and they lasted on average about 65 minutes. 
+
+Regarding the first research question, 83,33% (15 of 18) have said that they are aware of algorithms on social media platforms and thought about their mechanism. Furthermore, most of them understood them as filters that do or do not allow users to see their posts. But, the elements that do or do not boost your posts varied a lot between the interviewees, especially in the topics engagement, publisher attributes and the used platform. 
+
+Focusing on research question two, 33,3% said that they don’t think about algorithms when creating a post, which can be explained by either their organization handles social media as a minor matter or that themselves are not involved in social media posts directly. Only two participants had been explicitly asked to not post something because it wouldn’t do well on social media.
+
+In conclusion, the results don’t show that algorithms have a huge impact on editorial decision-making in modern-day journalism. Moreover, algorithms are becoming less important to journalists because they decide to redirect their focus to search engine optimization and content aggregators. 
+
+Nevertheless, journalists cannot disregard the importance that algorithms have on their posted content that creates pressure to post something likeable, leading to restricted autonomy for the journalist and the user.
