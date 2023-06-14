@@ -1,0 +1,31 @@
+---
+Bol, N., Høie, N. M., Nguyen, M. H., & Smit, E. S. (2019). Customization in mobile health apps: explaining effects on physical activity intentions by the need for autonomy. Digital Health, 5, 
+
+title: Customization in mobile health apps
+subtitle: Explaining effects on physical activity intentions by the
+need for autonomy.
+author: Fiona Hammersen
+categories:
+  - "Media Psychology"
+  - "Digital Media"
+  - "Well Being"
+---
+1.	Select a Key Quote from the article that provides a good summary of the article. 
+“Although self-determination theory suggests that everyone has a basic need for autonomy, individual differences exist in the need for autonomy regarding health-related decisions.”
+
+2.	Describe in one paragraph what is the main Argument of the article from which you have picked the Key Quote. 
+The main argument of the article is that customization features in mobile health apps can play a significant role in promoting health behavior change. The article proposes that customization leads to increased perceived active control over the apps, which, in turn, enhances autonomous motivation to use them. This heightened autonomous motivation ultimately translates into higher intentions to engage in physical activity. Additionally, the article highlights the importance of considering individual differences in the need for autonomy when designing and implementing customization features. Overall, the article emphasizes the potential of customization in mobile health apps to stimulate behavior change and underscores the need to cater to individuals' autonomy needs for optimal effectiveness.
+
+3.	Discuss the Relationship between the argument in the study and the theoretical arguments put forward in the other articles that you have read from this research area.
+The key quote emphasizes the role of customization in mobile health apps in enhancing perceived active control and autonomous motivation, which aligns with the theoretical arguments put forward in other articles in this research area. Many studies have highlighted the importance of customization as a mechanism to promote user engagement and behavior change in digital health interventions. The concept of perceived active control aligns with the idea that individuals who have a sense of control over their online experience are more likely to be motivated and engaged in using digital health technologies. The key quote's argument complements the theoretical arguments from other articles by reinforcing the significance of customization and autonomy-supportive environments in fostering motivation, engagement, and ultimately behavior change in the context of digital health technologies.
+
+4.	Formulate two Questions that originate from the findings of the presented research and arguments. 
+a)	How can mobile health apps be tailored to different individuals' autonomy needs and preferences to maximize their effectiveness?
+b)	What are the potential long-term effects of customization in mobile health apps on sustained behavior change and health outcomes?
+
+
+Summary:
+The article focuses on the potential of mobile health apps as tools to promote physical activity and behavior change. It explores the theoretical mechanisms connecting digital media use and autonomy need experiences, specifically in the context of customization in mobile health apps. 
+The study examines the effects of customization in mobile health apps on individuals' perceived active control, autonomous motivation, and intention to engage in physical activity. The researchers conducted a between-subjects experimental design with a convenience sample of 203 participants. They assessed the impact of customization on these variables and also investigated the moderating role of need for autonomy. To study individual perceptions of digital autonomy and autonomy need experiences related to digital media use, the researchers used structural equation modeling. This statistical technique allowed them to analyze the relationships and potential mediation effects among customization, perceived control, autonomous motivation, and physical activity intentions. They also examined the moderating role of need for autonomy, exploring how individual differences in autonomy needs influence the effects of customization on behavior change.
+The findings of the study indicate that customization in mobile health apps does not directly increase perceived control, autonomous motivation, or intentions to engage in physical activity. However, the analysis revealed an interaction effect between customization and need for autonomy. Customization led to higher intentions to engage in physical activity specifically for individuals with a greater need for autonomy, while it had no significant effect for those with a lesser need for autonomy. This research contributes to the understanding of the effectiveness of mobile health apps and the role of customization in promoting behavior change. It highlights the importance of considering individual differences in autonomy needs when designing and implementing digital interventions. Further research is needed to identify specific customization features that effectively enhance perceived control and autonomous motivation. 
+
