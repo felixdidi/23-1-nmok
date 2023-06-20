@@ -1,0 +1,42 @@
+---
+title: “Social Autonomy and Heteronomy in the Age of ICT: The Digital Pharmakon and the (Dis)Empowerment of the General Intellect”
+subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
+author: "Moritz Trabold"
+categories:
+  - "Media Psychology"
+  - "Digital Media"
+  - "Well Being"
+---
+
+## K: Key Quote
+“that instead of tendentially autonomizing and empowering the multitude because of the increasing independence of the general intellect from capitalist control, in reality the general intellect appears to be the object of an intense process of proletarianization today that seems to disempower it and rob it of its autonomy, producing a regression of the collective intelligence of the general intellect that he refers to as a state of ‘systemic stupidity’” (Lemmens, 2015, p. 293)
+
+
+## A: Argument
+The main argument of the text is that the introduction of information and communication technology (ICT) has led to a paradoxical situation where individuals have gained unprecedented access to information and social networks, but at the same time have become increasingly dependent on these technologies for their social and cognitive functioning, leading to a loss of autonomy and empowerment of the general intellect.
+
+
+## R: Relationship
+Under the aspect of "What constitutes autonomy in digital communication?" the text argues that autonomy in digital communication is defined by the ability to make informed, independent decisions about how to engage with and use ICT tools and platforms. This includes the ability to critically evaluate information, resist manipulation and external control, and maintain agency over one's own digital identity and social interactions.
+
+The relationship between the two arguments is that the loss of autonomy and empowerment described in the main argument is caused by a lack of these skills and abilities, as individuals become increasingly reliant on corporate or governmental entities that control and manage their digital lives. The text contends that a renewed focus on developing autonomy in digital communication, including critical digital literacy and platform-independent communication tools, is necessary to counteract this trend.
+
+
+## Q:
+1.	In the context of the digital age, how do personal values and beliefs contribute to an individual's sense of autonomy in online communication?
+2.	How do power dynamics within online social groups affect an individual's ability to exercise autonomy in digital communication, and what steps can be taken to promote inclusivity and empower marginalized voices in these spaces?
+
+
+
+## Summmary:
+The article “Social Autonomy and Heteronomy in the Age of ICT: The Digital Pharmakon and the (Dis)Empowerment of the General Intellect” from Pieter Lemmens explores the concept of autonomy in digital communication by examining how the use of information and communication technologies (ICT) can both enable and limit individuals' agency.
+
+Lemmens argues that the digital age has brought about a paradoxical situation in which individuals are both empowered and disempowered using ICT. On the one hand, ICT provides people with unprecedented access to knowledge and information, as well as new modes of communication and self-expression. This can lead to an increase in individual autonomy, as people are able to make more informed decisions and participate more fully in civic life.
+
+At the same time, however, the use of ICT can also result in a loss of autonomy as individuals become subject to new forms of surveillance, manipulation, and control. For example, social media platforms and search engines can generate filter bubbles and echo chambers that limit people's exposure to diverse viewpoints and reinforce existing biases. Additionally, the collection and exploitation of personal data by corporations and governments can undermine individual autonomy by denying people the ability to control how their information is used.
+
+Ultimately, Lemmens suggests that achieving true autonomy in the digital age requires embracing a philosophy of communication that recognizes the complex and dynamic nature of ICT use. This philosophy must acknowledge the potential for both empowerment and disempowerment inherent in digital communication, while also recognizing the need for greater accountability and transparency in the use of ICT. By doing so, individuals can work to mitigate the negative effects of ICT and cultivate a more robust and inclusive public sphere.
+
+Overall, Lemmens' article challenges readers to consider the multifaceted nature of autonomy in digital communication, and to think critically about the ways in which ICT can either empower or constrain individuals' agency.
+
+
