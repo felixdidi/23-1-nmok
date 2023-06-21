@@ -1,0 +1,33 @@
+---
+title: "Wiki Entry Template"
+subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
+author: Luca Engel
+categories:
+  - "Media Psychology"
+  - "Digital Media"
+  - "Well Being"
+---
+
+
+"Social media use is a poor predictor of mental health problems." (Berrymann et al., 2018)
+ 
+Die Studie befasst sich mit dem Verhältnis von digitaler Mediennutzung und dessen Auswirkungen auf die mentale Gesundheit. Durch die Ergebnisse konnte dargestellt werden, dass eine exzessive Nutzung von sozialen Medien nicht mit einem erhöhten Risiko einhergeht psychische Krankheiten zubekommen. So konnten beispielsweise keine Angstzustände oder Depressionen bei Personen erkannt werden, die Medien intensiv nutzen. Trotzdem wird in der Studie auch hervorgehoben, dass weiter Studien erforderlich sind um die Mechanismen zu verstehen und näher zu erforschen.
+ 
+Immer noch ist umstritten, ob die sozialen Medien für psychische Gesundheit bei jungen Menschen verantwortlich sind. Grundsätzlich stimmen die Ergebnisse der Studien mit vielen vorherigen überein, da bewiesen werden konnte, dass die Nutzung digitaler Medien nicht zwingend zu einem negativen Einfluss auf die psychische Gesundheit führt. Weitere Studien können darlegen, dass die Social Media Nutzung nicht zu Depression oder Angstzuständen führen (Primack et al., 2017). Es gibt aber auch viele Studien, die deutlichen machen, dass Aspekte wie das Bestreben von Likes oder Kommentaren  negative Auswirkungen auf das psychische Wohlbefinden haben (Lin et al., 2016)
+ 
+Welche Inhalte auf Social Media fördern den Einfluss auf die mentale Gesundheit?
+Kann man negative Auswirkungen auf die mentale Gesundheit verhindern, indem man die Nutzer*innen aufklärt?
+ 
+Berryman, C., Ferguson, C. J., & Negy, C. (2018). Social media use and mental health among young adults. Psychiatric quarterly, 89, 307-314.
+ 
+Primack, B. A., Shensa, A., Escobar-Viera, C. G., Barrett, E. L., Sidani, J. E., Colditz, J. B., & James, A. E. (2017). Use of multiple social media platforms and symptoms of depression and anxiety: A nationally-representative study among US young adults. Computers in human behavior, 69, 1-9.
+ 
+Lin, L. Y., Sidani, J. E., Shensa, A., Radovic, A., Miller, E., Colditz, J. B., ... & Primack, B. A. (2016). Association between social media use and depression among US young adults. Depression and anxiety, 33(4), 323-331.
+
+Die Studie von Berryman, Feruson und Negy (2018) untersucht das Verhältnis zwischen der Nutzung digitaler Medien und der psychischen Gesundheit bei jungen Menschen. 
+Ausgangspunkt für die Untersuchung der Studie ist die Umstrittenheit des Zusammenhangs zwischen der Social Media Nutzung und dessen Einfluss auf das psychische Wohlbefinden.
+Dafür wurden 467 Studenten mit einem Durchschnittsalter von 20 Jahren, die eine Universität im Südosten der Vereinigten Staaten besuchten, befragt. Die Befragung erfolgte im Hinblick auf die Zeit, die sie mit der Nutzung der sozialen Medien verbringen, die Bedeutung sozialer Medien in ihrem Leben und die Tendenz zum „Vaguebooking“. „Vaguebooking“, stellt hierbei das Posten von unklaren, aber alarmierenden Nachrichten dar, die Aufmerksamkeit erregen sollen. Die untersuchten Ergebnisse beinhalten allgemeine psychologische Gesundheitssymptome, Selbstmordgedanken, Einsamkeit, soziale Ängste und verminderte Empathie.
+Die Messung erfolgte auf einer Likert-Skala. Zu „Vaguebooking" gab es drei gezielte Fragen. Zeitaufwand für social Media und der Umgang mit sozialen Medien wurde mit einer Einzelfrage gemessen. Die soziale Unterstützung wurde beispielsweise über eine Multidimensionale Skala erfasst. Neben anderen Prädiktoren war die soziale Erwünschtheit mit einer geringen Berichterstattung über negative Symptome verbunden. Soziale Unterstützung war ein konsistenter Schutzfaktor für alle negativen Ereignisse wie auch Suizidgedanken. Wahrgenommene Eltern-Kind-Konflikte wurden mit psychischen Gesundheitssympotomen, Selbstmord und Einsamkeit in Verbindung gebracht.
+Es konnte dargelegt werden, dass Social Media ein schlechter Prädiktor für psychische Krankheiten darstellt und somit die Nutzung sozialer Medien keine Vorhersage dafür ist, dass die psychische Gesundheit beeinträchtigt wird. „Vaguebooking“ war jedoch vorhersagend für Selbstmordgedanken. Die Ergebnisse deuten insgesamt daraufhin, mit Ausnahme von Vaguebooking, dass die Nutzung von digitalen Meiden keinen negativen Einfluss auf die psychische Gesundheit hat.
+Zusätzlich konnte gezeigt werden das der Eltern-Kind-Konflikt eine der stärksten Prädiktoren für psychische Probleme ist. Es konnte bewiesen werden, dass es keine Beweise dafür gibt das digitale Medien psychische Krankheuten begünstigen.
+
