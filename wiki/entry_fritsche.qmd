@@ -1,0 +1,24 @@
+---
+title: "Wiki Entry Template"
+subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
+author: Jessica Fritsche 
+categories:
+  - "Media Psychology"
+  - "Digital Media"
+  - "Well Being"
+---
+
+Schlüsselzitat (K): “ The main question oft this study was whether or not, for older adults, learning to use a computer and the Internet for 1 year has an impact on well-being and quality of life.”
+Hauptargument (A): The main argument justifying this study is that the ability to use the Internet, but also computers, not only provides specific opportunities to this age group, but may also have a variety of other positive effects on the lives of older adults.
+(R) Beziehung: Previous studies have shown mostly mixed resultes, which is why this study deals specifically with the elderly and takes a close look at the effects. In addition, this study is more representative than previous studies, because it was a larger pool of people who participated in this study.  
+zwei (Q) Fragen: 1. Even if older people receive computer training, the question arises as to whether people actually want to use this knowledge and then also be able to benefit from it.
+2. Since this study did not reveal any relevant relationship between the computer training and the psychological well-being of the respondents, the question is whether this was because the study was only carried out with mentally healthy people. So, if done with people who all have mental health issues, might internet use have more positive effects?
+	
+Summary- Effects of Computer Training and Internet Usage on the Well-Being and Quality of Life of older Adults: A randomized controlled Study
+Karin Slegers, Martin R. J. van Boxtel, and Jelle Jolles
+The paper “Effects of Computer Training and Internet Usage on the Well-Being and Quality of Life of older Adults: A randomized controlled Study” by the authors Karin Slegers, Martin R. J. van Boxtel and Jelle Jolles investigates the effects of learning how to use technical devices, meaning here primarily computer training and internet use. 
+The researchers want to find out how learning these skills affects mental health in older people. They hoped to have a demonstrable impact on the opportunities for this age group, but also to revolutionize communication and socialization in this generation. There has also been speculation as to whether computer training will introduce this target group to new entertainment factors, as well as learning new skills in their own homes. In addition, the autonomy behavior of the respondents should be examined, because by learning how to operate those technical devices, the respondents have more access to independence, especially when it comes to obtaining information or, for example, assistance in coping with everyday tasks. Finally, the researchers are investigating whether health benefits could be identified for the respondents, but also whether learning these skills has an impact on their personal well-being and, of course, contributes to improving their quality of life.
+Slegers et al recruited 240 participants for this study. They divided respondents into groups to decide who received computer training and who did not. There were two tests, after four and twelve months, that each participant in the study had to complete. In the end there were four groups with different levels of knowledge. The results of this study showed that the researchers could not show any meaningful impact of the intervention on the recipients. Any differences found between the groups were very random in nature and are more likely to be due to other factors. Significant differences could only be identified in the usage behavior between heavy and light users.
+To sum up. while the study did not itself make any major relevant discoveries, through its improved target group compared to previous studies, it showed that previous discoveries were much more likely to be incidental than significant.
+  
+
