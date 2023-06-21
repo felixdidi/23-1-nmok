@@ -1,10 +1,21 @@
 ---
-title: "Wiki Entry Template"
+title: "Wiki Entry firus"
 subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
-author: "Your Name"
+author: "Enrica Firus"
 categories:
-  - "Media Psychology"
-  - "Digital Media"
   - "Well Being"
 ---
 
+Ethical issues in digital public health
+
+K: Renouncing an ambivalent technology is often not the best solution due to the associated opportunity costs, i.e., untapped potentials. (Marckmann, 2020, p. 204)
+
+A: It would be the easy solution to not utilize Digital Health interventions due to their ambivalent technology, which brings both opportunities and risks. However, if we prohibit Digital Health interventions based on their risks, we would miss out on numerous possibilities for improving human life and health. Instead, the task of ethical technology assessment should be to develop concrete recommendations for action to minimize potential risks, rather than banning the technology altogether. Ethical technology assessment must also prescribe or determine the appropriate design and application of the technology.
+
+R: Marckmann's argument that the risks of Digital Health interventions should not overshadow their potential and, therefore, they should not be prohibited is echoed in many other studies. Jumelle and Ispas, in their paper "Ethical issues in digital health," also reach the same conclusion as Marckmann. The technologies of Digital Health raise ethical questions, such as data privacy and self-determination, yet banning the technology is not the best solution.
+
+Q: What could practical measures for risk mitigation of Digital Health technologies look like? What political prerequisites are needed for Digital Health technologies to be functional and ethically acceptable? (Could it even require new laws?)
+
+The study "Ethical Issues in Digital Public Health" by Georg Marckmann in 2020 examines the ethical questions arising from digital healthcare technologies and how they can be addressed. It discusses issues such as data privacy and the impact on patient autonomy through digital health interventions. Potential benefits of digital healthcare are outlined, including increased disease prevention and improved treatment through enhanced availability, storage, and analysis of health-related data. Another advantage is increased health literacy through easy access to health-related information, which can be particularly beneficial for those with limited access to such information. Marckmann also explains the risks associated with these opportunities, such as data security for sensitive personal information, which cannot be resolved through informal decision-making alone. While emphasizing patient autonomy through decision-making, the question arises whether patients can autonomously decide about their data and their privacy needs. When weighing the risks and benefits and conducting an ethical evaluation of digital health interventions, it is always about determining the amount of autonomy granted to patients and whether regulating digital health interventions also protects or fulfills patients' autonomy needs. Marckmann concludes that the diversity of digital technology and application fields makes it challenging to ethically evaluate digital public health interventions as a whole. Instead, individual assessments of applications are necessary to consider ethically relevant implications and contribute to an ethically justifiable design through normative guidelines and a methodical approach. The methodical approach Marckmann employs involves establishing normative evaluation criteria, such as functionality, alternatives, and the benefits of digital health interventions, preserving patient autonomy, and considering responsibility, legitimacy, justice, efficiency, and data protection. Following the establishment of normative evaluation criteria, a methodical and step-by-step assessment of these criteria takes place. The evaluation process includes specification, synthesis, and the development of ethically grounded recommendations for the application of digital health interventions. Ultimately, the ethical evaluation aims to contribute to an ethically justifiable design of digital public health interventions that safeguards patients' autonomy needs.
+
+Marckmann, G. (2020). Ethische fragen von digital public health. Bundesgesundheitsblatt, Gesundheitsforschung, Gesundheitsschutz, (2), 199-205.
