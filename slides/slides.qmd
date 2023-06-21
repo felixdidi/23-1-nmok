@@ -653,6 +653,156 @@ Github Intro
 :::
 
 
+# Session 10: Systematization — What Constitutes Autonomy in Digital Communication?
+
+![](https://i.redd.it/lwt1st2usyma1.jpg)
+
+<br>
+
+:::callout-warning
+## Resources for this session
+@baumeisterWritingNarrativeLiterature1997
+:::
+
+***
+
+## Course Overview
+
+*Weekly Sessions*
+
+| Session                      | Topic           |
+|----------------------------- |-----------------|
+|`r advdate(first_day, 8)`     |Wiki Project — No class!|
+|`r advdate(first_day, 9)`     |Systematization: What Constitutes Autonomy in Digital Communication?|
+|`r advdate(first_day, 10)`    |Systematization: What Constitutes Autonomy in Digital Communication?|
+|`r advdate(first_day, 11)`    |Systematization: What Constitutes Autonomy in Digital Communication?|
+|`r advdate(first_day, 12)`    |Synthesis: SDT-focused Perspectives on Digital Autonomy and Their Contribution to the Field|
+|`r advdate(first_day, 13)`    |Synthesis: Other Perspectives on Digital Autonomy and Relation to SDT|
+|`r advdate(first_day, 14)`    |Concluding Thoughts & Evaluation|
+
+## Systematization
+
+Possible options:
+
+- Textual/narrative
+- Tabular
+- Numerical/statistical
+- Graphical
+
+***
+
+### Goals of Literature Reviews
+
+based on @baumeisterWritingNarrativeLiterature1997
+
+- Theory development
+- Theory evaluation
+- Survey the state of knowledge
+- Problem identification
+- Historical account
+
+
+::: aside
+Baumeister, R. F., & Leary, M. R. (1997). Writing narrative literature reviews. *Review of General Psychology, 1*(3), 311–320. https://doi.org/10.1037/1089-2680.1.3.311
+:::
+
+***
+
+### Common Mistakes
+
+based on @baumeisterWritingNarrativeLiterature1997
+
+- Inadequate introduction (e.g., lack of theoretical framework)
+- Inadequate coverage of evidence (e.g., amount of detail)
+- Lack of integration (e.g., lack of "take-home message", how do the studies fit together?)
+- Lack of critical appraisal (e.g., methodological weaknesses)
+- Failure to adjust conclusions (e.g., ignoring previously mentioned critique)
+- Blurring assertion and "proof" (e.g., mixing up ideas and evidence)
+- Selective review of evidence (e.g., ignoring studies that don't fit the narrative)
+- Focusing on researchers rather than the research (e.g., "XY said that...")
+- Stopping at the present (e.g., ignoring implications for future research)
+
+::: aside
+Baumeister, R. F., & Leary, M. R. (1997). Writing narrative literature reviews. *Review of General Psychology, 1*(3), 311–320. https://doi.org/10.1037/1089-2680.1.3.311
+:::
+
+***
+
+### Theoretical Integration
+
+- Do not only describe the procedures and observations of various studies but relate them to the theoretical issues
+- **Synthesis**: a summary of individual study findings which juxtaposes them, often to identify patterns and provide a basis for (further) integration
+- **Analysis**: methods that critically assess the synthesized evidence, try to explore/explain heterogeneity, and ultimately answer the RQs
+
+***
+
+### Critical Appraisal
+
+- Do not critique individual studies, but groups of studies
+- Composite quality scoring (CQS): Uses a pre-validated quality appraisal sheet that captures a composite index of overall study quality (rather uncommon)
+- Assessment of best practice:
+  - Sampling (e.g., selection, assignment to conditions)
+  - Design (e.g., blinding, active or passive controls)
+  - Measurements (e.g., reliability, internal and external validity, construct validity)
+  - Analysis procedures (e.g., validity of statistical procedures)
+  
+***
+
+:::big-text
+Any Questions?
+:::
+
+***
+
+## Requirements for the Presentation
+
+- Build groups based on what makes sense for systematization, e.g.,
+  - common boundary condition (e.g., person, situation, time, role of autonomy)
+  - common (media) use case (e.g., mHealth, GDPR, ...)
+- Always return to the following two questions:
+  - What constitutes autonomy in digital communication (how does you perspective contribute to that?)
+  - How does this relate to individuals' autonomy need experiences as defined in SDT?
+  
+***
+
+### Remember the research questions
+  
+- **RQ1**: What are the *mechanisms* that are proposed to connect digital media use and autonomy need experiences?
+- (**RQ2**: Which *research perspectives* can be identified in the study of digital autonomy?)
+- **RQ3**: What are the *theoretical approaches* that are used by these perspectives and how do they relate to each other?
+- **RQ4**: Which of these perspectives focus on *individual perceptions* of digital autonomy or *autonomy need experiences* that relate to digital media use?
+- **RQ5**: How are individual perceptions of digital autonomy or autonomy need experiences that relate to digital media use *studied empirically*?
+
+***
+
+### Formal Structure
+
+- Groups:
+  - Digital Healthcare (max 3)
+  - Digital Media Use (max 3)
+  - Digital Pedagogy (1)
+  - Digital Power Structures (1)
+- Can be split again for term paper
+- Length of 5-7 minutes (prepare no more than 5 slides!)
+- Focus on theory integration and synthesis in your presentation
+- Always return to the following two questions:
+  - What constitutes autonomy in digital communication (how does you perspective contribute to that?)
+  - How does this relate to individuals' autonomy need experiences as defined in SDT?
+
+:::fragment
+
+- Group presentation is a work-in-progress!
+- Will not be graded!
+- You will give and receive feedback
+- Will be the basis for your term paper
+
+:::
+
+***
+
+:::big-text
+Any Questions?
+:::
 
 # References
 
