@@ -1,0 +1,34 @@
+---
+title: "Wiki Entry - Digital Pedagogy"
+subtitle: "Computer-mediated communication as an autonomy-enhancement tool for advanced learners of English" - Aleksandra Wach"
+author: "Hannah Young"
+categories:
+  - "Media Psychology"
+  - "Digital Media"
+  - "Well Being"
+---
+
+
+### KARQ-Questions
+
+**K** - “The accounts provided by the participants point to three basic features of autonomous learning, namely *“learner involvement,” “learner reflection” and “target language use”* (Little 2007, p. 7), present in their CMC-related behavior. While engaging in different forms of CMC, learners chose what to do, when, and to what extent, in this way learning to manage their contacts with the foreign language.”
+
+**A** - Wach introduces the idea of computer-mediated communication (CMC) and argues it can play a crucial role in promoting learner autonomy with English language learners by increasing engagement, motivation, and language advancement through extended opportunities for *self-directed learning, authentic communication, and independent language use*.
+
+**R** - The paper and Wach’s research provides a fitting overview of papers in this field, by focusing on self-directed learning through digital methods as well as improved motivation and engagement. A focus on higher level learning also seems to be common, though other papers also focus on *effects on teachers and professionals*, something that isn’t discussed in this paper.
+
+**Q** - How could this research be applied to *other pedagogical fields* / Would the outcome remain positive? How would the applied concepts and methods affect children or less advanced language learners?
+
+---
+<br>
+### Summary
+The paper “Computer-mediated communication as an autonomy-enhancement tool for advanced learners of English” by Aleksandra Wach examines the effects of *computer-mediated communication* (CMC) on advanced English learners in relation with their autonomy. Computer-mediated communication refers to communication which occurs through digital means. In the case of pedagogical fields, it often specifically refers to communication between teachers and students. Within the paper, Wach utilizes literary review and theoretical analyses for the theoretical part, while the study itself is carried out with two different groups (full-time and part-time students) and conducted through questionnaires. The three concepts that mainly reflect the concept of autonomy need experiences are: *self-directed learning, authentic communication, and independent language use*.
+<br> These all directly refer to the student’s ability to study the given subject autonomously and independently. Wach’s research shows that CMC can improve on these areas by offering easily accessible opportunities to self-study materials, encouraging connections to native speakers as well as individual decision-making regarding methods and timing, and offering content that indirectly teaches English through online access. Similarly, the paper looks at *learner involvement, learner reflection and target use*, which are all coined to be crucial parts of autonomous learning. This not only applies to how individuals may perceive their digital autonomy in regard to learning, but also to the possibilities of satisfying autonomy need experiences in pedagogy through digital media use.
+<br> Overall, Wach establishes a connection between CMC related learning and enhanced autonomous learning, which in turn can more effectively lead to a *satisfaction of autonomy needs and positive autonomy need experiences* within more advanced pedagogical fields. The paper and study show that pedagogy as a digital field can benefit both from boosting students’ autonomy and the consequential benefits of gratifying said autonomy.
+
+---
+<br>
+
+### Source
+
+Wach, A. (2012). Computer-mediated communication as an autonomy-enhancement tool for advanced learners of English. *Studies in Second Language Learning and Teaching, 2*(3), 367. https://doi.org/10.14746/ssllt.2012.2.3.6
