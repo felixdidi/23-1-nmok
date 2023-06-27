@@ -1,0 +1,35 @@
+---
+title: "Wiki Entry Template"
+subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
+author: Stefanie Boyarska
+categories:
+  - "Media Psychology"
+  - "Digital Media"
+  - "Well Being"
+---
+
+# digital healthcare
+
+## Mobile health ethics and the expanding role of autonomy
+## Bettina Schmietow, Georg Marckmann (2019)
+
+*"With more options for health-related autonomous choice, making the right decisions requires an adequate knowledge base, which leads us to briefly outline the key role of fostering health-related knowledge or health literacy in mobile health."*
+It should be noted that Users of digital healthcare devices are not simply autonomous when they are agreeing to specific treatments. They are acting autonomously when they are taking charge of their self-care and practice self- monitoring. But autonomy only works as long as digital health literacy, the knowledge about healthcare, is also used and gained by the user. 
+Many research only focus on the growing autonomy caused by digital healthcare and not about the danger of monetizing data. Big companies may use private data to sell healthcare product in a non- clinical way or to customize advertisements and sell your data. Yes, the autonomy grows because of the transparency but this also includes a big data storage about your health research. 
+* Still there are unssolved issues:
+	+ *Should digital healthcare only be left to certified doctors in order to deprive private companies that are only out for profit of the power to sell data?*
+	+ *Digital healthcare alone seems to bring some disadvantages, but what if you combine a smartphone app with medical monitoring? For example, Instagram usage behaviour could be combined with a warning to the doctor if the user is more alert to bohemianism.*
+
+
+First of all the papers shows that you need to make some differences before you can research about the autonomy of users. Like the differences between **patient** and **consumer** **autonomy**. The use of apps in non-clinical contexts shifts the focus to the interests and rights of the user as a consumer rather than those of a patient. The circumstances of a typical patient, who may experiences emergency, powerlessness and limited knowledge, differentiate from those of a consumer, who acts voluntarily and makes choices without any emergency and on a non-stress base.
+
+The roles of users as patients, consumers, data providers and other participants themselves are overlapping and unclear. This leads to a vagueness in understanding the collective impact of mobile health technologies and autonomy.
+
+Also, you need to understand the relation between **autonomy** and **health literacy**. **Health literacy** refers to people's knowledge, motivation, and competences to access, understand, appraise, and apply health information in everyday life. Advancements in health literacy, could empower people with a small amount of health literacy to engage in **interactive healthcare** and **self-care**. But this also means that not everyone is experiencing autonomy the same way. People with a small amount of **health literacy** and **digital literacy** cannot use for example a healthcare App to the same extent as people with a high amount of health and digital literacy.
+
+Autonomy is seen as gaining control over habits and diseases, democratizing the doctor-patient relationship, increasing personal responsibility over health, and allowing people to lead more independent lives by reducing inpatient care. For example, the doctor- patient relationship can be democratized by the transparency because the knowledge of the doctor is no longer exclusively available. A big data storage could supply the patient so that the patient could take his health in his own hands and ask for alternative medical treatments. As already mentioned, this requires a solid knowledge base of health care to take informed decisions in this way.
+
+Studies show that the impact of mhealth (digital healthcare via smartphone) on behavioural health in the areas of lifestyle and prevention. But also, there are evidence that show that technically induced self-observation may however lead to a worse perception of health-related conditions and change or reduce self-perception. *This means that the autonomy could be increased or reduced with the usage of digital healthcare.*
+
+***literature source:*** Schmietow, B. & Marckmann, G. (2019). Mobile health ethics and the expanding role of autonomy. Med Health Care and Philos 22, 623–630. https://doi.org/10.1007/s11019-019-09900-y
+
