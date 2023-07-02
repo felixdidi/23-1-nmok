@@ -1,0 +1,42 @@
+---
+title: "Digital Transfomations in Healthcare Professional's Work"
+subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
+author: Laura Schomburg
+categories:
+  - "Media Psychology"
+  - "Digital Media"
+  - "Well Being"
+---
+
+
+Select a (K) Key Quote from the article that provides a good summary of the article. The Key Quote should be a quote of one sentence and not a whole paragraph.
+
+"In unexpected situations, control by professional norms effectively overruled control by the standards and guidelines encoded in digital objects."
+
+
+Describe in one paragraph what is the main (A) Argument of the article from which you have picked the Key Quote. Summarize in your own words the main theoretical argument expressed in this article. Here you do not use any direct citations.
+
+The article's main argument discusses the question how users of digital information systems (IS) in hospitals perceive the support of technology as advantageous or obstructive in their daily routines. The examined IS focus on features and use cases such as those that coordinate surgeries and manage the prioritization of patients based on their diseases to improve the internal process flows. The aforementioned benefits manifest in an improved operating model and smoother chains of activities provided by the additional knowledge within the IS. The article, in particular, sheds light on the visibility management approach which centers around the idea of the illustration of processes and workflows to increase the overall operational transparency. However, the majority of participants criticizes the resulting increase in transparency since it is accompanied by a perceived feeling of control which leads to a reduction of the individualâ€™s autonomy. The alleged loss of autonomy is not applicable in critical situations because, ultimately, the decision-making power is always held by the physicians during their surgical interventions. In summary, the usage of IS is evaluated ambiguously by the users in a hospital due to the materialized positive benefits in process flows on the one hand and the biased perception of an increased monitoring of the individual on the other hand.
+
+
+Discuss the (R) Relationship between the argument in the study and the theoretical arguments put forward in the other articles that you have read from this research area.
+
+Other studies show that there is a constant conflict between the consequences of the proceeding digitization in terms of a rise or decline of individual autonomy. As a result of advancing digitization, the academic discourse indicates that autonomy increases as patients are less reliant on their doctors. Due to the easy process of online medication ordering and an mobile app-based appointment booking, the aforementioned trend is even intensified in modern society.
+However, a severe criticism towards the advancing digitization is expressed, because academic studies prove that a low degree of data protection and the forwarding of sensible personal data to third parties are major challenges resulting in a decline in autonomy. The violation of data protection rights, furthermore, inspires a feeling of exploitation into the people. 
+As a recent trend, artificial intelligence (AI) also plays an increasingly important role in the discussion about autonomy. AI can help the healthcare system in many ways and, for example, shortens waiting times as well as accelerate processes based on a smart management of patient flows. 
+On the other hand, there are also great concerns about the protection of patients in the field of AI-based technology. Many people feel threatened by digital services in healthcare because the usage of technologies, such as AI, represents a perceived loss of control negatively affecting the technological adoption rates.
+
+
+Finally, formulate two (Q) Questions that originate from the findings of the presented research and arguments. For instance, think about issues that are not addressed in this particular literature or about what could be a relevant future research question based on the findings or limitations of the presented study.
+
+1.How do professionals know to what extent they can or cannot use their autonomy?
+2.What are the conditions for controlling digital objects, like Informationsystems in healthcare?
+
+
+Summary
+
+The study examines the impact of the use of digital objects in the context of policies and the emerging trade-offs between the control, autonomy and accountability of the individual.
+First, the study explains that information systems (IS) provide a control tool through regulations and standards, which is made visible through so-called visibility management. This makes the professionals feel restricted in their autonomy. On the other hand, these IS create transparency around upcoming operations and provide knowledge, which strengthens the autonomy of the professionals in a certain way, as they do not have to ask for everything.
+To obtain results, the authors conducted a qualitative case study in a hospital in northern Germany by conducting 21 interviews. Secondly, the researcher observed the head of the operating rooms for two days, paying attention to his adoption and usage of IS. The source of information has been complemented by 11 supplementary interviews and the research based on internal documents of the hospital such as guidelines.
+The results show that professionals generally adhere to IS standards. The added value of the IS in terms of the administration of surgeries illustrates a big advantage in the eyes of the doctors. However, there was a deviation in their behavior towards a rejection of technology during extremely critical situations in which the professionals retained their professional autonomy by making the decisions grounded in their own expertise and knowledge. Some doctors even criticized the strict standards of the IS as well as its performance due to bad experience in the systemâ€™s data processing and slow responses. To counteract these critiques, a lower level of control and accountability could help in the future to optimize the use of IS in the context of the need for autonomy.
+In summary, the study scrutinizes the challenges and advantages of digital objects in the healthcare sector. In real critical situations, the clinical professionals still rely on their own decision making emphasizing their autonomy.
