@@ -1,0 +1,32 @@
+---
+title: "Conceptualising Artificial Intelligence as a Digital Healthcare Innovation: An Introductory Review"
+subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
+author: Finn Bracklow
+categories:
+  - "Digital Healthcare"
+  - "Digital Media Use (AI)"
+  - "Risks of Atonomylose"
+---
+
+Key Quote 
+
+"Artificial intelligence (AI) is widely recognised as a transformative innovation and is already proving capable of outperforming human clinicians in the diagnosis of specific medical conditions, especially in image analysis within dermatology and radiology."
+
+Argument
+
+AI is capable of supporting and even replacing the work of doctors and medical professionals. This is because AI is able to learn from patient records, genomic information, and real-time patient data to identify patterns and characteristics that cannot be detected by humans. For Example AI can help diagnose diseases accurately and promptly.
+
+Relationship
+
+The research field is characterized by many reviews that explain the many application areas in which digital healthcare has applications. The studies often exemplify the possibilities of new technologies to facilitate work within medicine and other areas. My selected study appropriately examines the benefits of AI use, which is a very current topic, as AI is getting a lot of attention in the media, especially at the moment. As with most other texts, the opportunities and risks in particular are weighed against each other, and the conclusion is that the advantages outweigh the disadvantages, but caution is advised.
+
+Questions
+
+How can we specifically and systematically limit the dangers of AI use?
+
+Does the use of AI pose a threat to human jobs in this case?
+
+Summery:
+
+The selected study deals with Artifical Intelligence (AI) as a new part of digital healthcare. It is already proven, that AI is capable of outperforming human clinicians in the diagnosis of specific medical conditions, especially in image analysis within dermatology and radiology. Uses of AI ranges from integrating with robotics to creating training material for clinicians and AI is already recognised as a “Software as a Medical Device (SaMD)” and is increasingly becoming a topic of interest for regulators.
+The introduction of AI must be carefully thought through, as there are risks of automation bias, overdependence and long-term staffing problems in addition to the well known generic risks associated with AI. It must be ensured that clinicians retain autonomy over the diagnostic process and understand the algorithmic processes generating diagnoses. This study uses established management literature to explore artificial intelligence as a digital healthcare innovation and highlight potential risks and opportunities. The text first explains the medical applications of artificial intelligence. In particular, AI is capable of recognizing features and patterns that are unrecognizable to humans, so that in the future it could be possible to diagnose diseases more precisely.  In addition, AI is a transformative innovation on several levels. Innovation at the content level to integrate a wide range of patient data and innovation at the service level to expand diagnostics. Further, the study looks at the Practical Implications of Artificial Intelligence Implementation and explores the opportunities and risks of ki deployment. The text concludes that AI brings great benefits as a digital health innovation. However, opportunities and risks should be carefully weighed and used to stimulate further research, but also proceed with caution. But it is sure that AI has the potential to improve healthcare delivery through altering clinical practice as well as optimising workflows. As an innovation, AI exhi-bits three key characteristics: it is self-referential, repro-grammable and capable of pronounced generativity.
