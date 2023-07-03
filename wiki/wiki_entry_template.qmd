@@ -1,10 +1,30 @@
 ---
-title: "Wiki Entry Template"
+title: The digitally engaged patient: Self-monitoring and self-care in the digital health era
 subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
-author: "Your Name"
+author: Matthias Jesse
 categories:
-  - "Media Psychology"
-  - "Digital Media"
-  - "Well Being"
+  - Digital healthcare 
+  - 
+  - 
 ---
 
+Wiki Entry von Matthias Jesse 
+ 
+Key Quote: “Digital health technologies and the disciplinary regimes they configure as part of the practices of self-monitoring and self-care may be said to both empower and disempower patients.”
+ 
+The Key Quote suggests, that Digital Healthcare both has advantages and disadvantages that either makes the patient believe that they feel more autonomous or that they feel obligated to report every health matter. Digital health care technologies have different values for different people, for some people especially older people using these technologies empowers them to live at home for a longer time instead of going into a retirement home. But other people fell that these technologies disempower them because the doctor patient relationship often helps patients to get over the feeling of vulnerability. Especially emotions play a big part in this discussion because only if the patients have trust in these new health technologies, they would use them because when people are ill they are vulnerable. This quote reflects the conflict of these new technologies, the conflict between empowering and disempowering, between autonomy and convenience. Patients will use some of these technologies on some occasions but will decline these on other. This question of using these technologies often can`t be answered because certain situation, require certain measures. Between all aspects we have to keep in mind, that all patients have different demands and needs.
+ 
+The topic of digital healthcare is a topic which is important, but it will become even more important in the future with increasingly improved technology. This article focuses on the decision if digital healthcare is viewed as empowering or disempowering for the patients. This topic is also discussed in other articles with the focus on the key component data. This aspects was included in the text but other articles focuses more on the data security and privacy component. The topic autonomy is an often recurring theme, especially with the elderly generation. Pensioners can continue living at home with technologies that transmit data to their doctors and call emergency if they for example fall down. Algorithms also play a major role, as they can process data better and faster and analyse different behaviours. Ethnic challenges play only a minor role in the edited text, but are becoming more important as technology makes everything more impersonal. I have already mentioned the point of data, another aspect of which is that the data is always available and can always be accessed from anywhere in the world, which safes expenses. This aspect is only barely mentioned. The topic AI or Artificial Intelligence is not mentioned in the text, this is ok because we are in early stages of the AI but this will play a big role in the future not only in digital health care. In general many articles give an overview over this topic rather than focussing on one special topic.            
+ 
+Questions: 
+Could these technologies someday with the help of Artificial Intelligence (AI) replace doctors in our normal life?
+ 
+Will our generation which grew up with more technology, use these technologies more because we are used to it?
+ 
+ 
+Summary on the paper “The digitally engaged patient: Self-monitoring and self-care in the digital health era” by Deborah Lupton: 
+ 
+This paper deals with the empowering and disempowering of patients by using Digital health technologies. These technologies could be motion detectors, tags, sensors in bed and many devices more. The key factor for this is that the patient is required to engage in self-monitoring practices, in which the patient is encourage to self-monitor their medical conditions at home, and sharing it with healthcare workers via digital media platforms. This process is called Telemedicine and it becomes more important especially in Europe and the US in the past years. When we look at these methods we realize very quickly that the digital health care and autonomy are quite connected. As I said before digital health technologies only work if people use the tools and technologies which monitor their health. The patients need to trust these technologies that they help them and that they only help them if they use them. Patients often have problems using these health devices because of factors like incompetence, indifference or ignorance. Every patient has different preferences and needs, some need the personal interaction with the doctor while others fear these head to head encounters. Emotions play a big role in that, because it takes strong emotional investment to trust somebody with your body if you are ill and doing that via technology could be beneficial for some and challenging for others. Regardless of which method a patient decides to be treated, it`s his decision and in the future these technologies will become more independent but even then, the patient has the opportunity and autonomy to decide which procedure he or she favors. Other studies revealed that tracking someone`s illness or also interfere in the selfcare of someone can be too much for a patient. The monitoring provided, but also necessary for these technologies, was perceived by as limiting their autonomy, contributing to anxiety about their health, or interfering with their preferred sense of self care.  
+ 
+Lupton, D. (2013). The digitally engaged patient: Self-monitoring and self-care in the digital health era. Social Theory & Health, 11, 256-270.
+ 
