@@ -1,0 +1,77 @@
+---
+title: "Information on Term Paper"
+subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
+author: "Felix Dietrich"
+categories:
+  - "Media Psychology"
+  - "Digital Media"
+  - "Well Being"
+csl: "../bib/apa.csl"
+bibliography: "../bib/23-1-nmok.bib"
+suppress-bibliography: true
+link-citations: false
+---
+
+# Requirements for your term paper
+
+Within the term paper, the question of *what constitutes autonomy in digital communication* is to be dealt with in greater depth. For the term paper, you formulate a central research question for your group, which you answer with the help of scientific literature. Please make sure that the research question is sufficiently pointed so that it can be answered in sufficient depth on 10-12 pages. If required, virtual office hours can be arranged to discuss your research question and preliminary outline.
+
+**Use the following bullet points to guide your paper:**
+
+- *Introduction* (1-2 pages): brief explanation of the topic & its relevance
+  - Why is autonomy (and autonomy need experiences specifically) relevant in the context of digital communication / digital technology use?
+  - Why is the research area which your group has selected relevant in this context?
+  - What is the central research question which you are working on? Why is it relevant?
+- *Theory* (3-4 pages): more detailed introduction to the research object
+  - What is digital autonomy? How can it be defined?
+  - (Short) review of existing literature from your general research perspective (e.g., use the Wiki!); what are the main contributions of this perspective for research on digital autonomy?
+  - Where is your research question located within this perspective?
+- *Integration & Synthesis:* (4-6 pages) extract the main themes of selected studies and relate them to the theoretical issues
+  - Summarise study findings and juxtapose them
+  - Identify patterns and provide a basis for (further) integration
+  - Do not string together individual studies, but group studies together based on common themes
+  - Critically assess the synthesized evidence, try to explore/explain heterogeneity, and ultimately answer the RQs
+- *Discussion* (1-2 pages): summary and interpretation of results
+  - Summarise your main findings and refer them back to the overarching question of *what constitutes autonomy in digital communication*
+  - Highlight limitations of the investigated studies' methodological approaches
+  - Provide an outlook and perspectives for future research
+
+**Try to avoid the following mistakes:**
+
+based on @baumeisterWritingNarrativeLiterature1997
+
+- Inadequate introduction (e.g., lack of theoretical framework)
+- Inadequate coverage of evidence (e.g., amount of detail)
+- Lack of integration (e.g., lack of "take-home message", how do the studies fit together?)
+- Lack of critical appraisal (e.g., methodological weaknesses)
+- Failure to adjust conclusions (e.g., ignoring previously mentioned critique)
+- Blurring assertion and "proof" (e.g., mixing up ideas and evidence)
+- Selective review of evidence (e.g., ignoring studies that don't fit the narrative)
+- Focusing on researchers rather than the research (e.g., "XY said that...")
+- Stopping at the present (e.g., ignoring implications for future research)
+
+**The term paper can be written either in English or in German.** Please note: If you decide to write your paper in English, your level of English proficiency will not negatively influence the final course grading.
+
+**Length and Formatting:**
+
+- 10-12 pages of text, excl. cover page, table of contents, bibliography, etc. (deductions will be made from 12.5 pages on).
+- Font: Times New Roman (font size 12) or Arial (font size 11)
+- 1.5 line spacing
+- Justification (= Blocksatz), spaces within lines due to justification are to be avoided by automatic hyphenation (= automatische Silbentrennung)
+- Margins: 2.5 cm above and below, 3.5 cm to the left and 3 cm to the right
+- Citation according to APA 7th Edition (see www.apastyle.org or materials from your class on Scientific Working)
+- Direct and indirect citations are to be made exclusively as short references according to APA (no footnote references).
+- Helpful for creating a bibliography according to APA: Citavi or Zotero bibliography software (assign to your own university account via ZDV apps)
+- Footnotes in font size 10 at the end of each page can be used sparingly for additions and background information.
+
+**Plagiarism:**
+
+- A signed affidavit (= eidesstattliche Erklärung) of independent writing must be enclosed with the paper at the end. Otherwise, the paper cannot be recognized as an examination achievement.
+- To avoid plagiarism, substantiate all (in principle verifiable) factual claims with scientific literature. Further interpretations, theory transfer and your own thoughts do not require any proof. However, you can and should support these own contributions with literature and empirical findings that support the respective train of thought.
+
+**Submission of the term paper:**
+
+- Deadline: 31.08.2023, 12 pm (noon, no extension possible without a certificate)
+- Submission of an electronic version (PDF) via E-Mail
+- I will verify all received submissions shortly after the deadline. If you do not hear back from me then, please reach out to me immediately!
+
